@@ -77,7 +77,7 @@ $ pip install pillow
 
 ### Autor
 ---
-<img style="border-radius: 50%;" src="Autor.jpg" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="232afa7a-b236-425d-88a1-af394782afbd.png" width="100px;" alt=""/>
 Feito com ❤️ por Ramon Viana 👋🏽 Entre em contato!
 
 <a href = "mailto:ramon.viana.97@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
