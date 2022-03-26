@@ -80,7 +80,7 @@ $ pip install pillow
 <img style="border-radius: 50%;" src="232afa7a-b236-425d-88a1-af394782afbd.png" width="100px;" alt=""/>
 Feito com ❤️ por Ramon Viana 👋🏽 Entre em contato!
 
-<a href = "mailto:ramon.viana.97@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ramon.viana.97@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramon-viana-527024158" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/sAk32qpM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
+ <a href="https://discord.gg/sAk32qpM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/ramonviana97" target="_blank"><img src="https://img.shields.io/twitter/url?color=red&label=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Framonviana97" target="_blank"></a>
